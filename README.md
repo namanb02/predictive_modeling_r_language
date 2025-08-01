@@ -1,4 +1,3 @@
-```markdown
 # Predictive Modeling with R Language
 
 This repository is a collection of projects focused on data analysis and predictive modeling using the R programming language. Each project is self-contained and demonstrates key steps of a typical machine learning workflow, from exploratory data analysis to model training and evaluation.
