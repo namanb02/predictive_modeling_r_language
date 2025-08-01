@@ -61,4 +61,3 @@ install.packages(c("rpart", "caret", "klaR", "rsample", "rpart.plot", "ggplot2",
 
 3. **Run the script:**
 With the `milknew.csv` dataset and `predict_milk_quality.R` file in the same directory, you can run the script. It will generate a PDF file with the project's output.
-```
