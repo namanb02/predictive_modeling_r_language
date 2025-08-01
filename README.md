@@ -45,8 +45,8 @@ The script generates a PDF file named `Data101Project_output.pdf` containing all
 
 ```
 
-git clone https://github.com/YourUsername/predictive_modeling_r_language.git
-cd predictive\_modeling\_r\_language
+git clone https://github.com/namanb02/predictive_modeling_r_language.git
+cd predictive_modeling_r_language
 
 ```
 
